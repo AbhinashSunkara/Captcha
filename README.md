@@ -1,2 +1,3 @@
-# Captcha #turtleModuleMustBeInstalled
+# Captcha 
 Captcha logic 
+Turtle module needed
