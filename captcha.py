@@ -31,7 +31,7 @@ def click():
         global l5
         global a
         a=1
-        l5=Label(root,text="Give the correct captcha",bg="#98FB98", fg="#033", font="verdana 12 bold")
+        l5=Label(root,text="Give the correct captche",bg="#98FB98", fg="#033", font="verdana 12 bold")
         l5.grid(column=8,row=6)
 def cl():
     global k
